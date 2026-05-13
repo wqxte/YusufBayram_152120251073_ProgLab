@@ -1,0 +1,3 @@
+Number: 152120251073
+Sensor Index Used in the Process: 23
+First Temperature: 31.5 -> New Temperature: 104.5
